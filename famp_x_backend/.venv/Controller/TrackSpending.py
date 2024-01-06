@@ -13,6 +13,7 @@ class TrackSpending:
 
     def getIncome(self):
         return self._income
+    
     def getTotalCost(self, cost):
         print(cost)
    
@@ -28,20 +29,20 @@ class TrackSpending:
        elif totalcost <= budget:
            self._onbudget = False
     
+       
        return self._onbudget
-    
+   
     def calculateMoneyLeft(self,moneysaved, income):
-
-    
-        if moneysaved == 0:
-            return income
+  
+        if moneysaved > 0:
+            return self._remainingincometospend
         else:
             return moneysaved
        
     
     def calculateIncomeDeduction(self, income, totalcost):
-
-        self._remainingincometospend = income - totalcost
-
-        return {"remaining" : self._remainingincometospend}
-         
+        
+           self._remainingincometospend = totalcost - income
+        
+           return self._remainingincometospend
+        

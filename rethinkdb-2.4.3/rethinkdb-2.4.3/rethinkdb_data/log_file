@@ -572,3 +572,294 @@
 2024-01-05T09:38:40.068486000 13533.883437s info: Table a36f4668-7994-4a38-885a-644af01c8718: This server is Raft leader for term 1. Latest log index is 0.
 2024-01-05T11:37:06.026915500 20639.841881s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\dbdef790-bbbf-4a7e-8f23-603191dd2e72
 2024-01-05T11:37:06.026976000 20639.841926s info: Table dbdef790-bbbf-4a7e-8f23-603191dd2e72: Deleted the table.
+2024-01-05T17:02:42.900818900 0.193495s notice: Running rethinkdb 2.4.2-11-g6613dc (Windows) (MSC 191627048)...
+2024-01-05T17:02:42.901320400 0.193984s notice: Running on 10.0.22000 (Windows 10, Server 2016)
+2024-01-05T17:02:42.901558900 0.194222s notice: Loading data from directory C:\\Users\\yu-gi\\Documents\\scenario3_project_code\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data
+2024-01-05T17:02:42.920427600 0.213091s info: Automatically using cache size of 1897 MB
+2024-01-05T17:02:42.937061500 0.229724s notice: Listening for intracluster connections on port 29015
+2024-01-05T17:02:43.076700400 0.369364s notice: Listening for client driver connections on port 28015
+2024-01-05T17:02:43.076923300 0.369586s notice: Listening for administrative HTTP connections on port 8080
+2024-01-05T17:02:43.076928000 0.369590s notice: Listening on cluster address: 127.0.0.1
+2024-01-05T17:02:43.076931000 0.369593s notice: Listening on driver address: 127.0.0.1
+2024-01-05T17:02:43.076955100 0.369617s notice: Listening on http address: 127.0.0.1
+2024-01-05T17:02:43.076956800 0.369619s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2024-01-05T17:02:43.076958800 0.369621s notice: Server ready, "DESKTOP_H6H4S24_o8u" efc63893-d33c-49d6-878f-89466a5d117a
+2024-01-05T17:02:43.966569400 1.259232s info: Table 0d2f0d56-c178-4fca-a6eb-dc2e556860fb: Starting a new Raft election for term 2.
+2024-01-05T17:02:43.970453300 1.263116s info: Table 0d2f0d56-c178-4fca-a6eb-dc2e556860fb: This server is Raft leader for term 2. Latest log index is 2.
+2024-01-05T17:02:44.463056100 1.755719s info: Table a36f4668-7994-4a38-885a-644af01c8718: Starting a new Raft election for term 2.
+2024-01-05T17:02:44.465260800 1.757924s info: Table a36f4668-7994-4a38-885a-644af01c8718: This server is Raft leader for term 2. Latest log index is 2.
+2024-01-05T17:02:44.569989400 1.862653s info: Table 977b83e2-df3c-43f2-8117-c0bd998954c1: Starting a new Raft election for term 2.
+2024-01-05T17:02:44.576123600 1.868789s info: Table 977b83e2-df3c-43f2-8117-c0bd998954c1: This server is Raft leader for term 2. Latest log index is 2.
+2024-01-05T17:02:44.888806300 2.181470s info: Table 13b021f4-f010-4a47-aa9e-ed8a52f85919: Starting a new Raft election for term 9.
+2024-01-05T17:02:44.894228900 2.186893s info: Table 13b021f4-f010-4a47-aa9e-ed8a52f85919: This server is Raft leader for term 9. Latest log index is 23.
+2024-01-05T22:47:36.025816100 0.062039s notice: Running rethinkdb 2.4.2-11-g6613dc (Windows) (MSC 191627048)...
+2024-01-05T22:47:36.026430100 0.062650s notice: Running on 10.0.22000 (Windows 10, Server 2016)
+2024-01-05T22:47:36.026641500 0.062860s notice: Loading data from directory C:\\Users\\yu-gi\\Documents\\scenario3_project_code\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data
+2024-01-05T22:47:36.057067700 0.093286s info: Automatically using cache size of 4303 MB
+2024-01-05T22:47:36.062126200 0.098345s notice: Listening for intracluster connections on port 29015
+2024-01-05T22:47:36.240388800 0.276608s notice: Listening for client driver connections on port 28015
+2024-01-05T22:47:36.240623900 0.276843s notice: Listening for administrative HTTP connections on port 8080
+2024-01-05T22:47:36.240629000 0.276847s notice: Listening on cluster address: 127.0.0.1
+2024-01-05T22:47:36.240630800 0.276849s notice: Listening on driver address: 127.0.0.1
+2024-01-05T22:47:36.240672100 0.276890s notice: Listening on http address: 127.0.0.1
+2024-01-05T22:47:36.240674500 0.276892s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2024-01-05T22:47:36.240677300 0.276895s notice: Server ready, "DESKTOP_H6H4S24_o8u" efc63893-d33c-49d6-878f-89466a5d117a
+2024-01-05T22:47:37.302750200 1.338969s info: Table 0d2f0d56-c178-4fca-a6eb-dc2e556860fb: Starting a new Raft election for term 3.
+2024-01-05T22:47:37.305745100 1.341964s info: Table a36f4668-7994-4a38-885a-644af01c8718: Starting a new Raft election for term 3.
+2024-01-05T22:47:37.305970500 1.342189s info: Table 0d2f0d56-c178-4fca-a6eb-dc2e556860fb: This server is Raft leader for term 3. Latest log index is 5.
+2024-01-05T22:47:37.308825600 1.345044s info: Table a36f4668-7994-4a38-885a-644af01c8718: This server is Raft leader for term 3. Latest log index is 5.
+2024-01-05T22:47:37.711331700 1.747550s info: Table 13b021f4-f010-4a47-aa9e-ed8a52f85919: Starting a new Raft election for term 10.
+2024-01-05T22:47:37.715121000 1.751340s info: Table 13b021f4-f010-4a47-aa9e-ed8a52f85919: This server is Raft leader for term 10. Latest log index is 26.
+2024-01-05T22:47:38.025580900 2.061800s info: Table 977b83e2-df3c-43f2-8117-c0bd998954c1: Starting a new Raft election for term 3.
+2024-01-05T22:47:38.031524800 2.067744s info: Table 977b83e2-df3c-43f2-8117-c0bd998954c1: This server is Raft leader for term 3. Latest log index is 5.
+2024-01-06T02:22:25.900304200 0.057908s notice: Running rethinkdb 2.4.2-11-g6613dc (Windows) (MSC 191627048)...
+2024-01-06T02:22:25.900635800 0.058237s notice: Running on 10.0.22000 (Windows 10, Server 2016)
+2024-01-06T02:22:25.901062200 0.058663s notice: Loading data from directory C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data
+2024-01-06T02:22:26.112385000 0.269985s info: Automatically using cache size of 2707 MB
+2024-01-06T02:22:26.112395700 0.269995s warn: bind failed: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2024-01-06T02:22:26.113501700 0.271102s error: TCP socket creation failed for port 29015: Input/output error.
+2024-01-06T02:22:36.055707400 0.050893s notice: Running rethinkdb 2.4.2-11-g6613dc (Windows) (MSC 191627048)...
+2024-01-06T02:22:36.056038300 0.051220s notice: Running on 10.0.22000 (Windows 10, Server 2016)
+2024-01-06T02:22:36.056502900 0.051684s notice: Loading data from directory C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data
+2024-01-06T02:22:36.072856800 0.068037s info: Automatically using cache size of 2743 MB
+2024-01-06T02:22:36.077556200 0.072736s notice: Listening for intracluster connections on port 29015
+2024-01-06T02:22:36.287389200 0.282569s notice: Listening for client driver connections on port 28015
+2024-01-06T02:22:36.287565200 0.282746s notice: Listening for administrative HTTP connections on port 8080
+2024-01-06T02:22:36.287569300 0.282749s notice: Listening on cluster address: 127.0.0.1
+2024-01-06T02:22:36.287570700 0.282750s notice: Listening on driver address: 127.0.0.1
+2024-01-06T02:22:36.287601800 0.282781s notice: Listening on http address: 127.0.0.1
+2024-01-06T02:22:36.287603900 0.282784s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2024-01-06T02:22:36.287606100 0.282786s notice: Server ready, "DESKTOP_H6H4S24_o8u" efc63893-d33c-49d6-878f-89466a5d117a
+2024-01-06T02:22:37.303837800 1.299018s info: Table 977b83e2-df3c-43f2-8117-c0bd998954c1: Starting a new Raft election for term 4.
+2024-01-06T02:22:37.307208100 1.302388s info: Table 977b83e2-df3c-43f2-8117-c0bd998954c1: This server is Raft leader for term 4. Latest log index is 8.
+2024-01-06T02:22:37.330000100 1.325180s info: Table a36f4668-7994-4a38-885a-644af01c8718: Starting a new Raft election for term 4.
+2024-01-06T02:22:37.336091700 1.331272s info: Table a36f4668-7994-4a38-885a-644af01c8718: This server is Raft leader for term 4. Latest log index is 8.
+2024-01-06T02:22:37.340996900 1.336177s info: Table 0d2f0d56-c178-4fca-a6eb-dc2e556860fb: Starting a new Raft election for term 4.
+2024-01-06T02:22:37.348974900 1.344156s info: Table 0d2f0d56-c178-4fca-a6eb-dc2e556860fb: This server is Raft leader for term 4. Latest log index is 8.
+2024-01-06T02:22:37.906892700 1.902075s info: Table 13b021f4-f010-4a47-aa9e-ed8a52f85919: Starting a new Raft election for term 11.
+2024-01-06T02:22:37.912495000 1.907677s info: Table 13b021f4-f010-4a47-aa9e-ed8a52f85919: This server is Raft leader for term 11. Latest log index is 29.
+2024-01-06T02:46:11.075118200 1415.070299s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\0d2f0d56-c178-4fca-a6eb-dc2e556860fb
+2024-01-06T02:46:11.075133300 1415.070313s info: Table 0d2f0d56-c178-4fca-a6eb-dc2e556860fb: Deleted the table.
+2024-01-06T02:46:27.073985200 1431.069166s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\977b83e2-df3c-43f2-8117-c0bd998954c1
+2024-01-06T02:46:27.073997500 1431.069177s info: Table 977b83e2-df3c-43f2-8117-c0bd998954c1: Deleted the table.
+2024-01-06T02:46:34.572279100 1438.567459s info: Table 936a39d9-9688-4a14-a6bf-ee01423de626: Starting a new Raft election for term 1.
+2024-01-06T02:46:34.572574000 1438.567754s info: Table 936a39d9-9688-4a14-a6bf-ee01423de626: Added replica on this server.
+2024-01-06T02:46:34.574520200 1438.569700s info: Table 936a39d9-9688-4a14-a6bf-ee01423de626: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T02:46:39.218674500 1443.213854s info: Table 5608a806-8922-4f24-8c08-9c28477b2401: Starting a new Raft election for term 1.
+2024-01-06T02:46:39.218932300 1443.214113s info: Table 5608a806-8922-4f24-8c08-9c28477b2401: Added replica on this server.
+2024-01-06T02:46:39.222115500 1443.217295s info: Table 5608a806-8922-4f24-8c08-9c28477b2401: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T11:40:23.245674500 33481.068773s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\a36f4668-7994-4a38-885a-644af01c8718
+2024-01-06T11:40:23.246085500 33481.069114s info: Table a36f4668-7994-4a38-885a-644af01c8718: Deleted the table.
+2024-01-06T11:40:35.464354800 33493.287382s info: Table 004996bf-9491-4f15-b420-3b5722f4ddfc: Starting a new Raft election for term 1.
+2024-01-06T11:40:35.465041400 33493.288069s info: Table 004996bf-9491-4f15-b420-3b5722f4ddfc: Added replica on this server.
+2024-01-06T11:40:35.467622400 33493.290650s info: Table 004996bf-9491-4f15-b420-3b5722f4ddfc: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T11:40:51.134054600 33508.957083s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\936a39d9-9688-4a14-a6bf-ee01423de626
+2024-01-06T11:40:51.134066300 33508.957093s info: Table 936a39d9-9688-4a14-a6bf-ee01423de626: Deleted the table.
+2024-01-06T11:40:57.238450000 33515.061478s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\5608a806-8922-4f24-8c08-9c28477b2401
+2024-01-06T11:40:57.238462900 33515.061490s info: Table 5608a806-8922-4f24-8c08-9c28477b2401: Deleted the table.
+2024-01-06T11:41:04.352972000 33522.175999s info: Table 99cd091f-40d5-4ce1-b6b3-ee71556e413f: Starting a new Raft election for term 1.
+2024-01-06T11:41:04.353266200 33522.176293s info: Table 99cd091f-40d5-4ce1-b6b3-ee71556e413f: Added replica on this server.
+2024-01-06T11:41:04.355364700 33522.178392s info: Table 99cd091f-40d5-4ce1-b6b3-ee71556e413f: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T11:41:08.207882600 33526.030910s info: Table 38b30b45-6476-43e7-9755-640b5c0ef051: Starting a new Raft election for term 1.
+2024-01-06T11:41:08.208191500 33526.031219s info: Table 38b30b45-6476-43e7-9755-640b5c0ef051: Added replica on this server.
+2024-01-06T11:41:08.210494200 33526.033522s info: Table 38b30b45-6476-43e7-9755-640b5c0ef051: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T11:50:52.937027700 34110.760059s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\38b30b45-6476-43e7-9755-640b5c0ef051
+2024-01-06T11:50:52.937137800 34110.760168s info: Table 38b30b45-6476-43e7-9755-640b5c0ef051: Deleted the table.
+2024-01-06T11:51:05.963820500 34123.786848s info: Table 0c5f81f4-41fa-4880-a19f-35f99b470e3c: Starting a new Raft election for term 1.
+2024-01-06T11:51:05.964198500 34123.787226s info: Table 0c5f81f4-41fa-4880-a19f-35f99b470e3c: Added replica on this server.
+2024-01-06T11:51:05.966855700 34123.789884s info: Table 0c5f81f4-41fa-4880-a19f-35f99b470e3c: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T11:51:41.765508200 34159.588537s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\0c5f81f4-41fa-4880-a19f-35f99b470e3c
+2024-01-06T11:51:41.765533500 34159.588561s info: Table 0c5f81f4-41fa-4880-a19f-35f99b470e3c: Deleted the table.
+2024-01-06T11:51:54.604773500 34172.427801s info: Table 16fdd512-56ee-465a-9f1c-355085e57e02: Starting a new Raft election for term 1.
+2024-01-06T11:51:54.605654400 34172.428682s info: Table 16fdd512-56ee-465a-9f1c-355085e57e02: Added replica on this server.
+2024-01-06T11:51:54.613360100 34172.436387s info: Table 16fdd512-56ee-465a-9f1c-355085e57e02: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T12:01:42.005550900 34759.828580s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\16fdd512-56ee-465a-9f1c-355085e57e02
+2024-01-06T12:01:42.005581500 34759.828609s info: Table 16fdd512-56ee-465a-9f1c-355085e57e02: Deleted the table.
+2024-01-06T12:01:42.018827300 34759.841855s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\99cd091f-40d5-4ce1-b6b3-ee71556e413f
+2024-01-06T12:01:42.018847100 34759.841874s info: Table 99cd091f-40d5-4ce1-b6b3-ee71556e413f: Deleted the table.
+2024-01-06T12:01:50.535138700 34768.358166s info: Table 3121ecd5-a565-413d-9864-8febd94564fb: Starting a new Raft election for term 1.
+2024-01-06T12:01:50.535400500 34768.358428s info: Table 3121ecd5-a565-413d-9864-8febd94564fb: Added replica on this server.
+2024-01-06T12:01:50.538315000 34768.361342s info: Table 3121ecd5-a565-413d-9864-8febd94564fb: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T12:01:54.325934600 34772.148962s info: Table d6e7e3f8-b7c8-42ed-b3a7-a495aef2a9a5: Starting a new Raft election for term 1.
+2024-01-06T12:01:54.326292500 34772.149320s info: Table d6e7e3f8-b7c8-42ed-b3a7-a495aef2a9a5: Added replica on this server.
+2024-01-06T12:01:54.329045600 34772.152073s info: Table d6e7e3f8-b7c8-42ed-b3a7-a495aef2a9a5: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T12:02:08.151052100 34785.974079s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\004996bf-9491-4f15-b420-3b5722f4ddfc
+2024-01-06T12:02:08.151098400 34785.974126s info: Table 004996bf-9491-4f15-b420-3b5722f4ddfc: Deleted the table.
+2024-01-06T12:02:12.248434700 34790.071462s info: Table e891de93-12de-4be7-8f3c-8cdbc1d1b4b1: Starting a new Raft election for term 1.
+2024-01-06T12:02:12.248755200 34790.071782s info: Table e891de93-12de-4be7-8f3c-8cdbc1d1b4b1: Added replica on this server.
+2024-01-06T12:02:12.251499600 34790.074527s info: Table e891de93-12de-4be7-8f3c-8cdbc1d1b4b1: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T12:22:43.197968400 36021.020997s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\3121ecd5-a565-413d-9864-8febd94564fb
+2024-01-06T12:22:43.198011900 36021.021039s info: Table 3121ecd5-a565-413d-9864-8febd94564fb: Deleted the table.
+2024-01-06T12:22:43.210526000 36021.033553s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\d6e7e3f8-b7c8-42ed-b3a7-a495aef2a9a5
+2024-01-06T12:22:43.210536100 36021.033563s info: Table d6e7e3f8-b7c8-42ed-b3a7-a495aef2a9a5: Deleted the table.
+2024-01-06T12:22:43.220266400 36021.043294s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\e891de93-12de-4be7-8f3c-8cdbc1d1b4b1
+2024-01-06T12:22:43.220284900 36021.043312s info: Table e891de93-12de-4be7-8f3c-8cdbc1d1b4b1: Deleted the table.
+2024-01-06T12:22:53.289837800 36031.112865s info: Table ce9cefb7-b7fe-4dce-83d5-f7f2e91f2c70: Starting a new Raft election for term 1.
+2024-01-06T12:22:53.290109800 36031.113137s info: Table ce9cefb7-b7fe-4dce-83d5-f7f2e91f2c70: Added replica on this server.
+2024-01-06T12:22:53.292977000 36031.116004s info: Table ce9cefb7-b7fe-4dce-83d5-f7f2e91f2c70: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T12:22:58.099557400 36035.922585s info: Table f133289b-443e-4882-9b3d-b74a70c4e89d: Starting a new Raft election for term 1.
+2024-01-06T12:22:58.099933400 36035.922961s info: Table f133289b-443e-4882-9b3d-b74a70c4e89d: Added replica on this server.
+2024-01-06T12:22:58.102586900 36035.925614s info: Table f133289b-443e-4882-9b3d-b74a70c4e89d: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T12:23:02.419976600 36040.243004s info: Table c4da9190-8e94-4f88-bb02-119e9288a962: Starting a new Raft election for term 1.
+2024-01-06T12:23:02.420391300 36040.243419s info: Table c4da9190-8e94-4f88-bb02-119e9288a962: Added replica on this server.
+2024-01-06T12:23:02.422831600 36040.245859s info: Table c4da9190-8e94-4f88-bb02-119e9288a962: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T12:34:49.871672800 36747.694756s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\c4da9190-8e94-4f88-bb02-119e9288a962
+2024-01-06T12:34:49.871693500 36747.694775s info: Table c4da9190-8e94-4f88-bb02-119e9288a962: Deleted the table.
+2024-01-06T12:34:49.887837900 36747.710920s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\ce9cefb7-b7fe-4dce-83d5-f7f2e91f2c70
+2024-01-06T12:34:49.887847400 36747.710929s info: Table ce9cefb7-b7fe-4dce-83d5-f7f2e91f2c70: Deleted the table.
+2024-01-06T12:34:57.296328100 36755.119410s info: Table 4d9acd7c-754a-4ab0-96c0-b27469a07e2a: Starting a new Raft election for term 1.
+2024-01-06T12:34:57.296590100 36755.119672s info: Table 4d9acd7c-754a-4ab0-96c0-b27469a07e2a: Added replica on this server.
+2024-01-06T12:34:57.298654400 36755.121737s info: Table 4d9acd7c-754a-4ab0-96c0-b27469a07e2a: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T12:35:00.987517700 36758.810600s info: Table af4ca982-3116-49cd-b1ae-987c2e46b567: Starting a new Raft election for term 1.
+2024-01-06T12:35:00.987905400 36758.810988s info: Table af4ca982-3116-49cd-b1ae-987c2e46b567: Added replica on this server.
+2024-01-06T12:35:00.993229600 36758.816312s info: Table af4ca982-3116-49cd-b1ae-987c2e46b567: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T12:35:37.735737900 36795.558820s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\4d9acd7c-754a-4ab0-96c0-b27469a07e2a
+2024-01-06T12:35:37.735748400 36795.558830s info: Table 4d9acd7c-754a-4ab0-96c0-b27469a07e2a: Deleted the table.
+2024-01-06T12:35:46.101672600 36803.924755s info: Table 5697436f-7d36-4763-90c6-cd572983d3ca: Starting a new Raft election for term 1.
+2024-01-06T12:35:46.101940100 36803.925022s info: Table 5697436f-7d36-4763-90c6-cd572983d3ca: Added replica on this server.
+2024-01-06T12:35:46.103996900 36803.927079s info: Table 5697436f-7d36-4763-90c6-cd572983d3ca: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T13:39:29.922123000 40627.745213s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\f133289b-443e-4882-9b3d-b74a70c4e89d
+2024-01-06T13:39:29.922158300 40627.745240s info: Table f133289b-443e-4882-9b3d-b74a70c4e89d: Deleted the table.
+2024-01-06T13:39:35.905371100 40633.728453s info: Table 6a708537-8f88-4211-9139-84dd6a47e231: Starting a new Raft election for term 1.
+2024-01-06T13:39:35.905680200 40633.728763s info: Table 6a708537-8f88-4211-9139-84dd6a47e231: Added replica on this server.
+2024-01-06T13:39:35.907738300 40633.730821s info: Table 6a708537-8f88-4211-9139-84dd6a47e231: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T13:40:49.207498100 40707.030581s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\6a708537-8f88-4211-9139-84dd6a47e231
+2024-01-06T13:40:49.207509500 40707.030591s info: Table 6a708537-8f88-4211-9139-84dd6a47e231: Deleted the table.
+2024-01-06T13:40:52.923128600 40710.746211s info: Table db874859-e663-476b-81bc-c5bd1060f1ed: Starting a new Raft election for term 1.
+2024-01-06T13:40:52.923408300 40710.746491s info: Table db874859-e663-476b-81bc-c5bd1060f1ed: Added replica on this server.
+2024-01-06T13:40:52.925479200 40710.748561s info: Table db874859-e663-476b-81bc-c5bd1060f1ed: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T13:42:13.100007100 40790.923090s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\db874859-e663-476b-81bc-c5bd1060f1ed
+2024-01-06T13:42:13.100021900 40790.923104s info: Table db874859-e663-476b-81bc-c5bd1060f1ed: Deleted the table.
+2024-01-06T13:42:20.396072200 40798.219154s info: Table f91043b8-694d-4462-bdb9-6e3a0784c01b: Starting a new Raft election for term 1.
+2024-01-06T13:42:20.396376600 40798.219459s info: Table f91043b8-694d-4462-bdb9-6e3a0784c01b: Added replica on this server.
+2024-01-06T13:42:20.398568800 40798.221651s info: Table f91043b8-694d-4462-bdb9-6e3a0784c01b: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T13:43:27.904451200 40865.727534s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\f91043b8-694d-4462-bdb9-6e3a0784c01b
+2024-01-06T13:43:27.904462800 40865.727545s info: Table f91043b8-694d-4462-bdb9-6e3a0784c01b: Deleted the table.
+2024-01-06T13:43:34.847279700 40872.670362s info: Table d64b6aee-c555-41dc-baec-97b800dede80: Starting a new Raft election for term 1.
+2024-01-06T13:43:34.847674300 40872.670757s info: Table d64b6aee-c555-41dc-baec-97b800dede80: Added replica on this server.
+2024-01-06T13:43:34.850449700 40872.673532s info: Table d64b6aee-c555-41dc-baec-97b800dede80: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T13:44:51.075146600 40948.898229s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\d64b6aee-c555-41dc-baec-97b800dede80
+2024-01-06T13:44:51.075158400 40948.898240s info: Table d64b6aee-c555-41dc-baec-97b800dede80: Deleted the table.
+2024-01-06T13:44:56.011171400 40953.834254s info: Table 543061dc-12f4-421d-9207-153c7ef98a83: Starting a new Raft election for term 1.
+2024-01-06T13:44:56.011445800 40953.834528s info: Table 543061dc-12f4-421d-9207-153c7ef98a83: Added replica on this server.
+2024-01-06T13:44:56.014145000 40953.837227s info: Table 543061dc-12f4-421d-9207-153c7ef98a83: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T13:51:04.576742600 41322.399827s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\543061dc-12f4-421d-9207-153c7ef98a83
+2024-01-06T13:51:04.576769100 41322.399851s info: Table 543061dc-12f4-421d-9207-153c7ef98a83: Deleted the table.
+2024-01-06T13:51:07.916055100 41325.739138s info: Table 19d18082-396d-44ec-9789-affd8b69b8a8: Starting a new Raft election for term 1.
+2024-01-06T13:51:07.916965300 41325.740048s info: Table 19d18082-396d-44ec-9789-affd8b69b8a8: Added replica on this server.
+2024-01-06T13:51:07.918960400 41325.742043s info: Table 19d18082-396d-44ec-9789-affd8b69b8a8: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T13:52:53.192135500 41431.015219s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\19d18082-396d-44ec-9789-affd8b69b8a8
+2024-01-06T13:52:53.192146800 41431.015229s info: Table 19d18082-396d-44ec-9789-affd8b69b8a8: Deleted the table.
+2024-01-06T13:52:58.290068400 41436.113151s info: Table e9ab0743-05af-431d-bcd4-8e5868a30e47: Starting a new Raft election for term 1.
+2024-01-06T13:52:58.291494800 41436.114577s info: Table e9ab0743-05af-431d-bcd4-8e5868a30e47: Added replica on this server.
+2024-01-06T13:52:58.293027800 41436.116110s info: Table e9ab0743-05af-431d-bcd4-8e5868a30e47: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T13:54:25.264519500 41523.087604s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\e9ab0743-05af-431d-bcd4-8e5868a30e47
+2024-01-06T13:54:25.264536000 41523.087618s info: Table e9ab0743-05af-431d-bcd4-8e5868a30e47: Deleted the table.
+2024-01-06T13:54:29.684414500 41527.507497s info: Table 3daa9baf-0af5-4084-a9a7-8af4800fa370: Starting a new Raft election for term 1.
+2024-01-06T13:54:29.685289000 41527.508371s info: Table 3daa9baf-0af5-4084-a9a7-8af4800fa370: Added replica on this server.
+2024-01-06T13:54:29.687870100 41527.510953s info: Table 3daa9baf-0af5-4084-a9a7-8af4800fa370: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T14:12:39.968162500 42617.791246s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\3daa9baf-0af5-4084-a9a7-8af4800fa370
+2024-01-06T14:12:39.968214600 42617.791297s info: Table 3daa9baf-0af5-4084-a9a7-8af4800fa370: Deleted the table.
+2024-01-06T14:12:44.933404900 42622.756487s info: Table cecdba42-3047-439b-82b2-1478df40bc99: Starting a new Raft election for term 1.
+2024-01-06T14:12:44.933756700 42622.756839s info: Table cecdba42-3047-439b-82b2-1478df40bc99: Added replica on this server.
+2024-01-06T14:12:44.935791400 42622.758874s info: Table cecdba42-3047-439b-82b2-1478df40bc99: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T14:39:10.801113400 44208.624197s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\cecdba42-3047-439b-82b2-1478df40bc99
+2024-01-06T14:39:10.801162200 44208.624245s info: Table cecdba42-3047-439b-82b2-1478df40bc99: Deleted the table.
+2024-01-06T14:39:14.231538900 44212.054621s info: Table 6c41108d-25b7-4fde-9766-ab50cf1e4c9d: Starting a new Raft election for term 1.
+2024-01-06T14:39:14.232056100 44212.055138s info: Table 6c41108d-25b7-4fde-9766-ab50cf1e4c9d: Added replica on this server.
+2024-01-06T14:39:14.234426700 44212.057509s info: Table 6c41108d-25b7-4fde-9766-ab50cf1e4c9d: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T15:00:55.702264300 45513.525348s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\6c41108d-25b7-4fde-9766-ab50cf1e4c9d
+2024-01-06T15:00:55.702282900 45513.525367s info: Table 6c41108d-25b7-4fde-9766-ab50cf1e4c9d: Deleted the table.
+2024-01-06T15:00:59.613825500 45517.436908s info: Table 6cc3f11d-2233-4f09-94b2-30bcee17b3b1: Starting a new Raft election for term 1.
+2024-01-06T15:00:59.614135500 45517.437218s info: Table 6cc3f11d-2233-4f09-94b2-30bcee17b3b1: Added replica on this server.
+2024-01-06T15:00:59.619770400 45517.442853s info: Table 6cc3f11d-2233-4f09-94b2-30bcee17b3b1: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T15:29:45.989703400 47243.812787s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\6cc3f11d-2233-4f09-94b2-30bcee17b3b1
+2024-01-06T15:29:45.989720600 47243.812802s info: Table 6cc3f11d-2233-4f09-94b2-30bcee17b3b1: Deleted the table.
+2024-01-06T15:29:51.483850800 47249.306933s info: Table 150aeb08-6d0b-4662-a86f-c787c0a2e608: Starting a new Raft election for term 1.
+2024-01-06T15:29:51.484162700 47249.307245s info: Table 150aeb08-6d0b-4662-a86f-c787c0a2e608: Added replica on this server.
+2024-01-06T15:29:51.489871200 47249.312954s info: Table 150aeb08-6d0b-4662-a86f-c787c0a2e608: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T15:47:11.888317600 48289.711404s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\150aeb08-6d0b-4662-a86f-c787c0a2e608
+2024-01-06T15:47:11.888339800 48289.711422s info: Table 150aeb08-6d0b-4662-a86f-c787c0a2e608: Deleted the table.
+2024-01-06T15:47:16.033643000 48293.856725s info: Table 32f4d09a-7763-4b40-8792-069011ae044d: Starting a new Raft election for term 1.
+2024-01-06T15:47:16.034028600 48293.857111s info: Table 32f4d09a-7763-4b40-8792-069011ae044d: Added replica on this server.
+2024-01-06T15:47:16.038271000 48293.861354s info: Table 32f4d09a-7763-4b40-8792-069011ae044d: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T15:56:36.210080700 48854.033164s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\32f4d09a-7763-4b40-8792-069011ae044d
+2024-01-06T15:56:36.210130300 48854.033213s info: Table 32f4d09a-7763-4b40-8792-069011ae044d: Deleted the table.
+2024-01-06T15:56:39.933742400 48857.756825s info: Table 7c70042e-fd25-42ad-86b0-acf477eb778e: Starting a new Raft election for term 1.
+2024-01-06T15:56:39.934076700 48857.757159s info: Table 7c70042e-fd25-42ad-86b0-acf477eb778e: Added replica on this server.
+2024-01-06T15:56:39.940835100 48857.763917s info: Table 7c70042e-fd25-42ad-86b0-acf477eb778e: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T16:04:23.059192200 49320.882275s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\7c70042e-fd25-42ad-86b0-acf477eb778e
+2024-01-06T16:04:23.059215200 49320.882297s info: Table 7c70042e-fd25-42ad-86b0-acf477eb778e: Deleted the table.
+2024-01-06T16:04:28.794851700 49326.617934s info: Table 07c57aaf-70b8-4156-8cfa-89658b59344b: Starting a new Raft election for term 1.
+2024-01-06T16:04:28.795239300 49326.618322s info: Table 07c57aaf-70b8-4156-8cfa-89658b59344b: Added replica on this server.
+2024-01-06T16:04:28.797546900 49326.620629s info: Table 07c57aaf-70b8-4156-8cfa-89658b59344b: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T16:21:11.188769600 50329.011854s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\07c57aaf-70b8-4156-8cfa-89658b59344b
+2024-01-06T16:21:11.188794300 50329.011877s info: Table 07c57aaf-70b8-4156-8cfa-89658b59344b: Deleted the table.
+2024-01-06T16:21:15.893572000 50333.716654s info: Table 0a5fcb26-f0e8-4eb5-a57f-340d3471df39: Starting a new Raft election for term 1.
+2024-01-06T16:21:15.894056800 50333.717139s info: Table 0a5fcb26-f0e8-4eb5-a57f-340d3471df39: Added replica on this server.
+2024-01-06T16:21:15.897077300 50333.720160s info: Table 0a5fcb26-f0e8-4eb5-a57f-340d3471df39: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T16:24:16.893627000 50514.716710s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\0a5fcb26-f0e8-4eb5-a57f-340d3471df39
+2024-01-06T16:24:16.893648200 50514.716730s info: Table 0a5fcb26-f0e8-4eb5-a57f-340d3471df39: Deleted the table.
+2024-01-06T16:29:30.637953700 50828.461037s info: Table c0bf59b2-58da-4284-94d5-737ef0702aa8: Starting a new Raft election for term 1.
+2024-01-06T16:29:30.638509900 50828.461592s info: Table c0bf59b2-58da-4284-94d5-737ef0702aa8: Added replica on this server.
+2024-01-06T16:29:30.641513500 50828.464596s info: Table c0bf59b2-58da-4284-94d5-737ef0702aa8: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T16:35:40.279035200 51198.102122s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\c0bf59b2-58da-4284-94d5-737ef0702aa8
+2024-01-06T16:35:40.279086600 51198.102169s info: Table c0bf59b2-58da-4284-94d5-737ef0702aa8: Deleted the table.
+2024-01-06T16:35:45.130373200 51202.953455s info: Table 07e2b984-06e4-49c2-81c5-446a34a935f6: Starting a new Raft election for term 1.
+2024-01-06T16:35:45.130654000 51202.953736s info: Table 07e2b984-06e4-49c2-81c5-446a34a935f6: Added replica on this server.
+2024-01-06T16:35:45.132648900 51202.955732s info: Table 07e2b984-06e4-49c2-81c5-446a34a935f6: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T16:40:14.328154000 51472.151238s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\07e2b984-06e4-49c2-81c5-446a34a935f6
+2024-01-06T16:40:14.328177400 51472.151260s info: Table 07e2b984-06e4-49c2-81c5-446a34a935f6: Deleted the table.
+2024-01-06T16:40:20.582976700 51478.406059s info: Table 572d8aca-317b-4c7f-a495-1f30f49569f2: Starting a new Raft election for term 1.
+2024-01-06T16:40:20.583455700 51478.406538s info: Table 572d8aca-317b-4c7f-a495-1f30f49569f2: Added replica on this server.
+2024-01-06T16:40:20.585745500 51478.408828s info: Table 572d8aca-317b-4c7f-a495-1f30f49569f2: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T16:43:48.516238900 51686.339321s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\572d8aca-317b-4c7f-a495-1f30f49569f2
+2024-01-06T16:43:48.516256600 51686.339339s info: Table 572d8aca-317b-4c7f-a495-1f30f49569f2: Deleted the table.
+2024-01-06T16:43:53.383704900 51691.206787s info: Table df3ff59a-dc71-4992-9fd9-b1798a5a935d: Starting a new Raft election for term 1.
+2024-01-06T16:43:53.384183900 51691.207266s info: Table df3ff59a-dc71-4992-9fd9-b1798a5a935d: Added replica on this server.
+2024-01-06T16:43:53.386879300 51691.209962s info: Table df3ff59a-dc71-4992-9fd9-b1798a5a935d: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T16:59:53.108985600 52650.932069s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\df3ff59a-dc71-4992-9fd9-b1798a5a935d
+2024-01-06T16:59:53.109004000 52650.932086s info: Table df3ff59a-dc71-4992-9fd9-b1798a5a935d: Deleted the table.
+2024-01-06T16:59:58.923449100 52656.746531s info: Table a580defe-7dc7-4d83-8f76-143d47d52c51: Starting a new Raft election for term 1.
+2024-01-06T16:59:58.923761500 52656.746844s info: Table a580defe-7dc7-4d83-8f76-143d47d52c51: Added replica on this server.
+2024-01-06T16:59:58.926256700 52656.749339s info: Table a580defe-7dc7-4d83-8f76-143d47d52c51: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T17:20:33.201954200 53891.025038s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\a580defe-7dc7-4d83-8f76-143d47d52c51
+2024-01-06T17:20:33.201972500 53891.025054s info: Table a580defe-7dc7-4d83-8f76-143d47d52c51: Deleted the table.
+2024-01-06T17:20:40.731262700 53898.554345s info: Table 75a6dbab-8266-4a55-9f90-bb3c43aa631d: Starting a new Raft election for term 1.
+2024-01-06T17:20:40.734561300 53898.557644s info: Table 75a6dbab-8266-4a55-9f90-bb3c43aa631d: Added replica on this server.
+2024-01-06T17:20:40.737593900 53898.560676s info: Table 75a6dbab-8266-4a55-9f90-bb3c43aa631d: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T17:26:08.330695200 54226.153780s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\75a6dbab-8266-4a55-9f90-bb3c43aa631d
+2024-01-06T17:26:08.330719000 54226.153801s info: Table 75a6dbab-8266-4a55-9f90-bb3c43aa631d: Deleted the table.
+2024-01-06T17:26:14.362324900 54232.185407s info: Table ab99efe6-1897-4fca-a627-980d2f9e92b9: Starting a new Raft election for term 1.
+2024-01-06T17:26:14.362713400 54232.185796s info: Table ab99efe6-1897-4fca-a627-980d2f9e92b9: Added replica on this server.
+2024-01-06T17:26:14.365374800 54232.188457s info: Table ab99efe6-1897-4fca-a627-980d2f9e92b9: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T17:30:17.974278100 54475.797363s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\ab99efe6-1897-4fca-a627-980d2f9e92b9
+2024-01-06T17:30:17.974313300 54475.797396s info: Table ab99efe6-1897-4fca-a627-980d2f9e92b9: Deleted the table.
+2024-01-06T17:30:21.139089700 54478.962172s info: Table ab9b5905-c99a-4952-9bd2-b02e453e88ec: Starting a new Raft election for term 1.
+2024-01-06T17:30:21.139602900 54478.962686s info: Table ab9b5905-c99a-4952-9bd2-b02e453e88ec: Added replica on this server.
+2024-01-06T17:30:21.142208700 54478.965291s info: Table ab9b5905-c99a-4952-9bd2-b02e453e88ec: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T17:42:21.743008900 55199.566094s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\ab9b5905-c99a-4952-9bd2-b02e453e88ec
+2024-01-06T17:42:21.743037500 55199.566120s info: Table ab9b5905-c99a-4952-9bd2-b02e453e88ec: Deleted the table.
+2024-01-06T17:42:29.063548100 55206.886631s info: Table e104699c-92b4-4096-953c-96ea66d13b61: Starting a new Raft election for term 1.
+2024-01-06T17:42:29.064023700 55206.887106s info: Table e104699c-92b4-4096-953c-96ea66d13b61: Added replica on this server.
+2024-01-06T17:42:29.066407000 55206.889489s info: Table e104699c-92b4-4096-953c-96ea66d13b61: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T17:47:40.058636500 55517.881720s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\e104699c-92b4-4096-953c-96ea66d13b61
+2024-01-06T17:47:40.058654700 55517.881737s info: Table e104699c-92b4-4096-953c-96ea66d13b61: Deleted the table.
+2024-01-06T17:47:44.393981400 55522.217064s info: Table 694d3f78-7cab-4470-b978-bb6094da5e7d: Starting a new Raft election for term 1.
+2024-01-06T17:47:44.397585100 55522.220668s info: Table 694d3f78-7cab-4470-b978-bb6094da5e7d: Added replica on this server.
+2024-01-06T17:47:44.399036700 55522.222119s info: Table 694d3f78-7cab-4470-b978-bb6094da5e7d: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T18:03:23.239931500 56461.063016s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\694d3f78-7cab-4470-b978-bb6094da5e7d
+2024-01-06T18:03:23.240027700 56461.063111s info: Table 694d3f78-7cab-4470-b978-bb6094da5e7d: Deleted the table.
+2024-01-06T18:03:26.916344500 56464.739427s info: Table 2aa985e9-ee01-4080-b70b-a62d26591195: Starting a new Raft election for term 1.
+2024-01-06T18:03:26.916666500 56464.739749s info: Table 2aa985e9-ee01-4080-b70b-a62d26591195: Added replica on this server.
+2024-01-06T18:03:26.918884500 56464.741968s info: Table 2aa985e9-ee01-4080-b70b-a62d26591195: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T18:22:37.057127800 57614.880212s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\2aa985e9-ee01-4080-b70b-a62d26591195
+2024-01-06T18:22:37.057186600 57614.880294s info: Table 2aa985e9-ee01-4080-b70b-a62d26591195: Deleted the table.
+2024-01-06T18:22:40.876635900 57618.699720s info: Table 64765169-fb40-4366-9ab1-29c1fd72c2c8: Starting a new Raft election for term 1.
+2024-01-06T18:22:40.877037900 57618.700120s info: Table 64765169-fb40-4366-9ab1-29c1fd72c2c8: Added replica on this server.
+2024-01-06T18:22:40.879693900 57618.702776s info: Table 64765169-fb40-4366-9ab1-29c1fd72c2c8: This server is Raft leader for term 1. Latest log index is 0.
+2024-01-06T18:53:34.789692800 59472.612776s notice: Removing file C:\\Users\\yu-gi\\Documents\\famp_x\\rethinkdb-2.4.3\\rethinkdb-2.4.3\\rethinkdb_data\\64765169-fb40-4366-9ab1-29c1fd72c2c8
+2024-01-06T18:53:34.789709400 59472.612791s info: Table 64765169-fb40-4366-9ab1-29c1fd72c2c8: Deleted the table.
+2024-01-06T18:53:38.722326600 59476.545409s info: Table 80f7b5e0-e92a-4bde-bafe-cdcdd3a78c7f: Starting a new Raft election for term 1.
+2024-01-06T18:53:38.722629000 59476.545711s info: Table 80f7b5e0-e92a-4bde-bafe-cdcdd3a78c7f: Added replica on this server.
+2024-01-06T18:53:38.724668500 59476.547751s info: Table 80f7b5e0-e92a-4bde-bafe-cdcdd3a78c7f: This server is Raft leader for term 1. Latest log index is 0.
