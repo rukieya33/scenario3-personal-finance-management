@@ -1,0 +1,3 @@
+[submodule "famp"]
+	path = famp
+	url = https://github.com/rukieya33/scenario3-personal-finance-management.git
